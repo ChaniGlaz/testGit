@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\api\\lesson\\lesson2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B30CFFB4-F95B-4377-A237-D5CE3CBF5261}|lesson2\\lesson2.csproj|m:\\api\\lesson\\lesson2\\lesson2\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B30CFFB4-F95B-4377-A237-D5CE3CBF5261}|lesson2\\lesson2.csproj|solutionrelative:lesson2\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30CFFB4-F95B-4377-A237-D5CE3CBF5261}|lesson2\\lesson2.csproj|m:\\api\\lesson\\lesson2\\lesson2\\services\\tasksservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30CFFB4-F95B-4377-A237-D5CE3CBF5261}|lesson2\\lesson2.csproj|solutionrelative:lesson2\\services\\tasksservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30CFFB4-F95B-4377-A237-D5CE3CBF5261}|lesson2\\lesson2.csproj|m:\\api\\lesson\\lesson2\\lesson2\\controller\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30CFFB4-F95B-4377-A237-D5CE3CBF5261}|lesson2\\lesson2.csproj|solutionrelative:lesson2\\controller\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30CFFB4-F95B-4377-A237-D5CE3CBF5261}|lesson2\\lesson2.csproj|m:\\api\\lesson\\lesson2\\lesson2\\repositories\\itasksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30CFFB4-F95B-4377-A237-D5CE3CBF5261}|lesson2\\lesson2.csproj|solutionrelative:lesson2\\repositories\\itasksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30CFFB4-F95B-4377-A237-D5CE3CBF5261}|lesson2\\lesson2.csproj|m:\\api\\lesson\\lesson2\\lesson2\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30CFFB4-F95B-4377-A237-D5CE3CBF5261}|lesson2\\lesson2.csproj|solutionrelative:lesson2\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30CFFB4-F95B-4377-A237-D5CE3CBF5261}|lesson2\\lesson2.csproj|m:\\api\\lesson\\lesson2\\lesson2\\repositories\\tasksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30CFFB4-F95B-4377-A237-D5CE3CBF5261}|lesson2\\lesson2.csproj|solutionrelative:lesson2\\repositories\\tasksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30CFFB4-F95B-4377-A237-D5CE3CBF5261}|lesson2\\lesson2.csproj|m:\\api\\lesson\\lesson2\\lesson2\\repositories\\tasksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30CFFB4-F95B-4377-A237-D5CE3CBF5261}|lesson2\\lesson2.csproj|solutionrelative:lesson2\\repositories\\tasksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30CFFB4-F95B-4377-A237-D5CE3CBF5261}|lesson2\\lesson2.csproj|m:\\api\\lesson\\lesson2\\lesson2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30CFFB4-F95B-4377-A237-D5CE3CBF5261}|lesson2\\lesson2.csproj|solutionrelative:lesson2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30CFFB4-F95B-4377-A237-D5CE3CBF5261}|lesson2\\lesson2.csproj|m:\\api\\lesson\\lesson2\\lesson2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B30CFFB4-F95B-4377-A237-D5CE3CBF5261}|lesson2\\lesson2.csproj|solutionrelative:lesson2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30CFFB4-F95B-4377-A237-D5CE3CBF5261}|lesson2\\lesson2.csproj|m:\\api\\lesson\\lesson2\\lesson2\\lesson2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B30CFFB4-F95B-4377-A237-D5CE3CBF5261}|lesson2\\lesson2.csproj|solutionrelative:lesson2\\lesson2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30CFFB4-F95B-4377-A237-D5CE3CBF5261}|lesson2\\lesson2.csproj|m:\\api\\lesson\\lesson2\\lesson2\\services\\itasksservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30CFFB4-F95B-4377-A237-D5CE3CBF5261}|lesson2\\lesson2.csproj|solutionrelative:lesson2\\services\\itasksservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30CFFB4-F95B-4377-A237-D5CE3CBF5261}|lesson2\\lesson2.csproj|m:\\api\\lesson\\lesson2\\lesson2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B30CFFB4-F95B-4377-A237-D5CE3CBF5261}|lesson2\\lesson2.csproj|solutionrelative:lesson2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30CFFB4-F95B-4377-A237-D5CE3CBF5261}|lesson2\\lesson2.csproj|m:\\api\\lesson\\lesson2\\lesson2\\taskslist.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B30CFFB4-F95B-4377-A237-D5CE3CBF5261}|lesson2\\lesson2.csproj|solutionrelative:lesson2\\taskslist.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tasks.cs",
+              "DocumentMoniker": "M:\\api\\lesson\\lesson2\\lesson2\\Models\\Tasks.cs",
+              "RelativeDocumentMoniker": "lesson2\\Models\\Tasks.cs",
+              "ToolTip": "M:\\api\\lesson\\lesson2\\lesson2\\Models\\Tasks.cs",
+              "RelativeToolTip": "lesson2\\Models\\Tasks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:11:34.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "M:\\api\\lesson\\lesson2\\lesson2\\appsettings.json",
+              "RelativeDocumentMoniker": "lesson2\\appsettings.json",
+              "ToolTip": "M:\\api\\lesson\\lesson2\\lesson2\\appsettings.json",
+              "RelativeToolTip": "lesson2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-23T16:19:28.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITasksRepository.cs",
+              "DocumentMoniker": "M:\\api\\lesson\\lesson2\\lesson2\\Repositories\\ITasksRepository.cs",
+              "RelativeDocumentMoniker": "lesson2\\Repositories\\ITasksRepository.cs",
+              "ToolTip": "M:\\api\\lesson\\lesson2\\lesson2\\Repositories\\ITasksRepository.cs",
+              "RelativeToolTip": "lesson2\\Repositories\\ITasksRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:14:26.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ITasksServices.cs",
+              "DocumentMoniker": "M:\\api\\lesson\\lesson2\\lesson2\\Services\\ITasksServices.cs",
+              "RelativeDocumentMoniker": "lesson2\\Services\\ITasksServices.cs",
+              "ToolTip": "M:\\api\\lesson\\lesson2\\lesson2\\Services\\ITasksServices.cs",
+              "RelativeToolTip": "lesson2\\Services\\ITasksServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:20:31.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "M:\\api\\lesson\\lesson2\\lesson2\\Controller\\TasksController.cs",
+              "RelativeDocumentMoniker": "lesson2\\Controller\\TasksController.cs",
+              "ToolTip": "M:\\api\\lesson\\lesson2\\lesson2\\Controller\\TasksController.cs",
+              "RelativeToolTip": "lesson2\\Controller\\TasksController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCcAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:13:50.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "M:\\api\\lesson\\lesson2\\lesson2\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "lesson2\\appsettings.Development.json",
+              "ToolTip": "M:\\api\\lesson\\lesson2\\lesson2\\appsettings.Development.json*",
+              "RelativeToolTip": "lesson2\\appsettings.Development.json*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-25T11:56:35.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TasksServices.cs",
+              "DocumentMoniker": "M:\\api\\lesson\\lesson2\\lesson2\\Services\\TasksServices.cs",
+              "RelativeDocumentMoniker": "lesson2\\Services\\TasksServices.cs",
+              "ToolTip": "M:\\api\\lesson\\lesson2\\lesson2\\Services\\TasksServices.cs",
+              "RelativeToolTip": "lesson2\\Services\\TasksServices.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwB4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:20:02.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TasksRepository.cs",
+              "DocumentMoniker": "M:\\api\\lesson\\lesson2\\lesson2\\Repositories\\TasksRepository.cs",
+              "RelativeDocumentMoniker": "lesson2\\Repositories\\TasksRepository.cs",
+              "ToolTip": "M:\\api\\lesson\\lesson2\\lesson2\\Repositories\\TasksRepository.cs",
+              "RelativeToolTip": "lesson2\\Repositories\\TasksRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:19:18.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TasksDbContext.cs",
+              "DocumentMoniker": "M:\\api\\lesson\\lesson2\\lesson2\\Repositories\\TasksDbContext.cs",
+              "RelativeDocumentMoniker": "lesson2\\Repositories\\TasksDbContext.cs",
+              "ToolTip": "M:\\api\\lesson\\lesson2\\lesson2\\Repositories\\TasksDbContext.cs",
+              "RelativeToolTip": "lesson2\\Repositories\\TasksDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:53:41.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "M:\\api\\lesson\\lesson2\\lesson2\\Program.cs",
+              "RelativeDocumentMoniker": "lesson2\\Program.cs",
+              "ToolTip": "M:\\api\\lesson\\lesson2\\lesson2\\Program.cs",
+              "RelativeToolTip": "lesson2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:31:32.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "lesson2.csproj",
+              "DocumentMoniker": "M:\\api\\lesson\\lesson2\\lesson2\\lesson2.csproj",
+              "RelativeDocumentMoniker": "lesson2\\lesson2.csproj",
+              "ToolTip": "M:\\api\\lesson\\lesson2\\lesson2\\lesson2.csproj",
+              "RelativeToolTip": "lesson2\\lesson2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-23T14:10:16.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "M:\\api\\lesson\\lesson2\\lesson2\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "lesson2\\Properties\\launchSettings.json",
+              "ToolTip": "M:\\api\\lesson\\lesson2\\lesson2\\Properties\\launchSettings.json",
+              "RelativeToolTip": "lesson2\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-23T14:15:43.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TasksList.json",
+              "DocumentMoniker": "M:\\api\\lesson\\lesson2\\lesson2\\TasksList.json",
+              "RelativeDocumentMoniker": "lesson2\\TasksList.json",
+              "ToolTip": "M:\\api\\lesson\\lesson2\\lesson2\\TasksList.json",
+              "RelativeToolTip": "lesson2\\TasksList.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABlAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-23T14:23:13.938Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
